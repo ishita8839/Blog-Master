@@ -1,0 +1,13 @@
+
+@media  (max-width:400px) {
+        nav {
+                flex-wrap: wrap;
+                justify-content: center;
+        }
+        nav ul {
+                flex-wrap: wrap;
+        }
+        nav ul li {
+                width: 50%;
+        }
+}

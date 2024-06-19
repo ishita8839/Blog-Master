@@ -1,0 +1,8 @@
+@media (max-width:400px) {
+        .smallSize {
+            flex-direction: column;
+        }
+        .smallSize > div{
+            width: 100%;
+        }
+}
